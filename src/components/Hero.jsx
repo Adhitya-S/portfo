@@ -42,7 +42,7 @@ const Hero = () => {
               <FaLinkedin className="text-white hover:text-[#915EFF] text-2xl" />
             </a>
             <a
-              href="https://drive.google.com/file/d/1j5SA8hBIVlfFYzdJBNtKgenoX2SnlYqW/view?usp=share_link"
+              href="https://drive.google.com/file/d/14o_uVgNbwpkNeFumtP2-UaJSRbTwfcJj/view"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Resume"
