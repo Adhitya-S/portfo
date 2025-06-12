@@ -45,7 +45,7 @@ const Navbar = () => {
           <img src={logo} alt='logo' className='w-9 h-9 object-contain' />
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
             Adhitya S &nbsp;
-            <span className='sm:block hidden'> | Software Developer With Full Stack</span>
+            <span className='sm:block hidden'> | AI & Data Science Engineer</span>
           </p>
         </Link>
 
