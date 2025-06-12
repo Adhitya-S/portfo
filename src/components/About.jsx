@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-      A Full-Stack Software Developer with a solid background in Python, Java, and HTML who is proficient in TypeScript, React.js, Node.js, Next.js, and Tailwind CSS. My area of expertise is creating scalable, intuitive apps that skillfully combine backend and frontend features. My methodology blends a love of clear code with an emphasis on developing user-friendly and visually appealing interfaces. Curiosity drives me to continuously investigate new technologies in order to improve my work and realize creative concepts.
+      A passionate AI Engineer and Data Science enthusiast with hands-on experience in building intelligent, data-driven applications. Skilled in machine learning, deep learning, and full-stack development, with projects spanning plant disease detection, AI-powered chatbots, and finance advisory tools. Brings a cross-disciplinary perspective through research exposure in biotechnology, computational biology, and nanotechnology. Driven by the mission to design ethical, scalable AI solutions that solve real-world problems and push the boundaries of innovation.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
